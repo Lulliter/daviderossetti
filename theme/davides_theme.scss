@@ -187,5 +187,21 @@ body .about-links .about-link:hover {
   background-color: $background-color; /* Change background color on hover */
   text-decoration: underline;  /* Optional: Add underline on hover */
 }
+// personalized blockquote
+blockquote {
+  border-left: 4px solid $h2-text-color;
+  margin: 0.2em 0;  // Reduced vertical margins
+  padding: 0 0 0 1em;  // Remove vertical padding, keep left padding
+  font-family: "Meslo";
+  font-style: italic;
+  background: $background-color;// #e6eef5;
+  box-shadow: none;
+  width: fit-content;  // Make container fit the content
+  display: inline-block;  // Prevent full-width block
 
-
+  // Remove extra spacing and default quotes
+  &::before,
+  &::after {
+    content: none;
+  }
+}

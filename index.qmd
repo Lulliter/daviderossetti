@@ -30,6 +30,15 @@ about:
     #   text: Github
     #   href: https://github.com/Lulliter
 toc: false
+#  reduce / DELETE SIDEBAR SPACE
+# https://quarto.org/docs/output-formats/page-layout.html#grid-customization
+format:
+  html:
+    grid:
+      body-width: 1000px
+      sidebar-width: 200px # non mi serve perche non c'e'
+      margin-width: 200px
+      gutter-width: 1.5em
 ---
 <!-- [*Website under construction...*]{style="color:#A14155; font-size: 1.5em;"} -->
 
@@ -39,19 +48,22 @@ toc: false
 <!-- + https://albert-rapp.de/ -->
 <!-- https://tanyaviz.com/about/ -->
 
-::: {#hero-heading}
+:::{style="text-align: center;"}
 
-:::{style="display: flex; justify-content: center;"} 
-> [Chaos is order yet undeciphered]{style="color: #2D5D7B; font-size:1.2em; font-weight: bold; font-style: italic; text-align: left;"}\
+> ["Chaos is order yet undeciphered"]{style="color: #2D5D7B; font-size:1.2em; font-weight: bold"}
+<!-- <br /> -->
 [José de Sousa Saramago]
-
+ 
 :::
+ 
+  
 
-Sono un imprenditore veneto originario di Chioggia, dove la mia famiglia tramanda dal 1920 una [**tradizione artigiana**](www.rossettinet.com/nsp) fatta di passione ed eccellenza nella manifattura di reti e attrezzature per la pesca sportiva, professionale e l’acquacoltura.
+::: {#hero-heading}
+Sono un imprenditore veneto originario di Chioggia, dove la mia famiglia tramanda dal 1920 una [**tradizione artigiana**](www.rossettinet.com/nsp) fatta di passione ed eccellenza nella manifattura di reti e attrezzature per la pesca sportiva, professionale e l’acquacoltura.  
 
-Nel settembre 2001 ho iniziato una nuova avventura come tessitore *"friulano d'adozione"*, in seguito all'acquisizione di una storica [**realtà industriale**](http://www.taisnet.com/) udinese specializzata nella produzione di tessuti a maglia in catena (Raschel).
+Nel 2001 ho intrapreso una nuova avventura come tessitore *"friulano d'adozione"*, rilevando una storica [**realtà industriale**](http://www.taisnet.com/) udinese specializzata in tessuti a maglia in catena (Raschel).  
 
-Dal 2016 vivo in Lombardia, vicino a Milano, dove ho trasferito la mia base operativa nel distretto tessile Varese-Brianza. Da qui mi occupo di progettazione, produzione e commercializzazione di tessuti tecnici per applicazioni industriali, supportato da una rete solida di relazioni costruita nel tempo con clienti, fornitori e partner.
+Dal 2016 vivo in Lombardia, vicino a Milano, dove ho trasferito la mia base operativa nel distretto tessile Varese-Brianza. Qui mi occupo di progettazione, produzione e commercializzazione di tessuti tecnici per applicazioni industriali, sostenuto da una rete solida di relazioni costruita nel tempo con clienti, fornitori e partner.
 
 Nel tempo libero, coltivo la mia passione per lo sport, che considero una fonte preziosa di energia e disciplina, ma anche un efficace strumento educativo per i giovani. Con questo spirito, nel 1995, ho fondato insieme ad alcuni amici l’associazione [_SpinOut_](https://www.spinoutasd.com) per la promozione degli sport _"radicali"_.
 

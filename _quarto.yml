@@ -74,5 +74,11 @@ format:
     monofont: "Fira Mono"
     ## ----- custom cookie consent linked to Google Analytics
     include-after-body: theme/custom-cookie.html
-
+# #  reduce / DELETE SIDEBAR SPACE
+# # https://quarto.org/docs/output-formats/page-layout.html#grid-customization
+#     grid:
+#       body-width: 1000px
+#       sidebar-width: 250px # non mi serve perche non c'e'
+#       margin-width: 250px
+#       gutter-width: 1.5em
 

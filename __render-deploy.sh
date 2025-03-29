@@ -33,7 +33,7 @@ git commit -m "correz DAvide 2 "
 git push origin master
 
 # --- git commit + push
-git commit -m "logo 2" && git push origin master
+git commit -m "brevetto 1pg" && git push origin master
 
 # --- git add u + commit + push
 git add -u && git commit -a -m "tais" && git push origin master

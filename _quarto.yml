@@ -10,7 +10,7 @@ execute:
 
 website:
   google-analytics:
-    tracking-id: "G-W9H0V3N3EJ"
+    tracking-id: "G-W9H0V3N3EJ" # Nome Stream daviderossetti.net
     anonymize-ip: true
   # cookie-consent:
   #   type: implied

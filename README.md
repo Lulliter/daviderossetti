@@ -7,6 +7,10 @@ self-contained: true
 
 This is the repository of a personal website, which is hosted at [www.daviderossetti.com](https://daviderossetti.com).
 
+## TO DO 
+
++ [language](https://quarto.org/docs/authoring/language.html)
+
 ## Info 
 
 Google Analitycs tag 

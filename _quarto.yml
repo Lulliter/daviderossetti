@@ -18,21 +18,23 @@ website:
   #   palette: light
   #   language: en
   title: "Davide Rossetti"
-  description: "Personal website of Davide Rossetti"
+  description: "Imprenditore tessile — reti e tessuti tecnici per applicazioni industriali. Temporary Sales Manager e collaborazioni a progetto."
   site-url: "https://daviderossetti.net"
+  image: images/surfer.jpg
+  open-graph: true
   repo-url: "https://github.com/Lulliter/daviderossetti"
 #  repo-actions: [edit, issue]
   favicon: images/net2.png
   search: false # no magnifier on navbar
   announcement:
-    icon: cone-striped
+    icon: megaphone-fill
     dismissable: true
-    content: "Website under construction"
-    type: warning
+    content: "Novità in arrivo"
+    type: info
     position: below-navbar
   page-footer:
     left: |
-      {{< fa regular copyright >}} Davide Rossetti 2025
+      {{< fa regular copyright >}} Davide Rossetti 2025-2026
     # right: |
     #   Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) <br>
 #      [Code at {{< fa brands github >}} GitHub]({{< var websites.gh_repo >}})
@@ -43,16 +45,16 @@ website:
     right:
       - href: index.qmd
         icon: house-door-fill
-        text: " "
+        text: "Home"
       # - href: index.qmd
       #   icon: house-door-fill
       #   text: "Home"
       - href: network/index.qmd
         icon: tools
-        text: "Prodotti"
+        text: "Soluzioni"
       - href: services.qmd
         icon: people-fill
-        text: "Servizi"
+        text: "Competenze"
       # - href: news.qmd
       #   text: "News"
 

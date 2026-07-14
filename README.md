@@ -10,6 +10,8 @@ This is the repository of a personal website, which is hosted at [www.davideross
 ## TO DO 
 
 + [language](https://quarto.org/docs/authoring/language.html)
++ ripristinare link a www.rossettinet.com/nsp in `index.qmd` (sito in costruzione)
++ ripristinare link/URL sito NSP in `network/index.qmd` (sito in costruzione)
 
 ## Info 
 

@@ -4,6 +4,7 @@
 /.quarto/
 /_site/
 /_freeze/
+.DS_Store
 
 # History files
 .Rhistory
@@ -34,3 +35,5 @@
 
 # Private
 _my_stuff/*
+
+**/*.quarto_ipynb

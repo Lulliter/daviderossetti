@@ -31,10 +31,11 @@ freeze: true
   </a>
 </div>
 
-# Produzione di rete tubolare e tessuti tecnici
+# Manifattura tessile
 [www.taisnet.com](http://www.taisnet.com/) | ***"We follow the net"*** <br><br>
-Produzione specializzata di reti tubolari realizzate con tecnologia Raschel ("maglieria in catena").  
-Fornitura di tessuti tecnici ad alte prestazioni per applicazioni industriali, agricole e specialistiche.
+TAIS sviluppa e produce tessuti e tubolari a maglia in catena per applicazioni tecniche nei processi industriali e per uso quotidiano.
+<!-- Produzione specializzata di reti tubolari realizzate con tecnologia Raschel ("maglieria in catena").   -->
+<!-- Fornitura di tessuti tecnici ad alte prestazioni per applicazioni industriali, agricole e specialistiche. -->
 
 :::
 
@@ -50,12 +51,14 @@ Fornitura di tessuti tecnici ad alte prestazioni per applicazioni industriali, a
   </a>
 </div>
 
-# Manifattura artigianale di reti
+# Produzione artigianale di reti
 
-[www.rossettinet.com](http://www.rossettinet.com/)  | ***"Net passion"*** <br><br>
+[www.rossettinet.com](http://www.rossettinet.com/)  | ***"Net passion since 1920"*** <br><br>
 <!-- Azienda leader nelle soluzioni basate su rete per ogni esigenza di contenimento, raccolta, separazione, movimentazione, protezione e design — con applicazioni nell’uso quotidiano e nei processi industriali. -->
-Azienda leader nella produzione su misura di reti per contenimento, raccolta, separazione, movimentazione, protezione e progettazione.  
-Applicazioni trasversali che spaziano dall’uso quotidiano, al design, ai processi industriali, con un approccio adattabile secondo le esigenze tecniche secifiche.
+<!-- Azienda leader nella produzione su misura di reti per contenimento, raccolta, separazione, movimentazione, protezione e progettazione.   -->
+<!-- Applicazioni trasversali che spaziano dall’uso quotidiano, al design, ai processi industriali, con un approccio adattabile secondo le esigenze tecniche secifiche. -->
+Soluzioni _taylor-made_ per la pesca, l’acquacoltura, la caccia, lo sport, e per applicazioni industriali.
+
 
 
 :::
@@ -66,16 +69,15 @@ Applicazioni trasversali che spaziano dall’uso quotidiano, al design, ai proce
 :::{.column-page layout="[1,1]" style="float:left;margin-left: auto;"}
 
 <div style="text-align: center;">
-  <a href="404.html">
-    <img src="../images/logo_nsp.png" alt="Net passion" style="width:70%;">
-  </a>
+  <img src="../images/logo_nsp.png" alt="Net Saving Project" style="width:70%;">
 </div>
 
 # Net Saving Project
 
-[www.nsp.com](404.html)  | ***"Net Saving Project"***<br><br>
+***"Net Saving Project"***<br><br>
 <!-- Nel 1986 abbiamo depositato il primo **brevetto per invenzione industriale**. -->
-Nel 1986 abbiamo registrato il nostro primo [**brevetto per invenzione industriale**](images/Brevetto_NSP.pdf).  
-Da allora sviluppiamo soluzioni tecniche sostenibili, con un focus su recupero, riuso e innovazione nel settore delle reti.
-
+<!-- Nel 1986 abbiamo registrato il nostro primo [**brevetto per invenzione industriale**](images/Brevetto_NSP.pdf).   -->
+<!-- Da allora sviluppiamo soluzioni tecniche sostenibili, con un focus su recupero, riuso e innovazione nel settore delle reti. -->
+Nel 1986, Rossetti registrava il suo primo [**brevetto per invenzione industriale**](images/Brevetto_NSP.pdf).  
+Da allora, sviluppa soluzioni tecniche sostenibili, con un focus su recupero, riuso e innovazione nel settore delle reti. 
 :::

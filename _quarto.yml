@@ -26,12 +26,12 @@ website:
 #  repo-actions: [edit, issue]
   favicon: images/net2.png
   search: false # no magnifier on navbar
-  announcement:
-    icon: megaphone-fill
-    dismissable: true
-    content: "Novità in arrivo"
-    type: info
-    position: below-navbar
+  # announcement:
+  #   icon: megaphone-fill
+  #   dismissable: true
+  #   content: "Novità in arrivo..."
+  #   type: info
+  #   position: below-navbar
   page-footer:
     left: |
       {{< fa regular copyright >}} Davide Rossetti 2025-2026
@@ -45,16 +45,16 @@ website:
     right:
       - href: index.qmd
         icon: house-door-fill
-        text: "Home"
+        text: "Chi sono"
       # - href: index.qmd
       #   icon: house-door-fill
       #   text: "Home"
       - href: network/index.qmd
-        icon: tools
-        text: "Soluzioni"
+        icon: briefcase-fill #diagram-3 #bezier2 # tools
+        text: "Esperienze"
       - href: services.qmd
-        icon: people-fill
-        text: "Competenze"
+        icon: rocket-takeoff # compass-fill # people-fill
+        text: "Sfide"
       # - href: news.qmd
       #   text: "News"
 

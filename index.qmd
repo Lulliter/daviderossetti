@@ -59,7 +59,7 @@ format:
   
 
 ::: {#hero-heading}
-Sono un imprenditore veneto originario di Chioggia, dove la mia famiglia tramanda dal 1920 una **tradizione artigiana** fatta di passione ed eccellenza nella manifattura di reti e attrezzature per la pesca sportiva, professionale e l’acquacoltura.  
+Sono un imprenditore veneto originario di Chioggia, dove la mia famiglia tramanda dal 1920 una [**tradizione artigiana**](https://www.rossettinet.com/) fatta di passione ed eccellenza nella manifattura di reti e attrezzature per la pesca sportiva, professionale e l’acquacoltura.  
 
 Nel 2001 ho intrapreso una nuova avventura come tessitore *"friulano d'adozione"*, rilevando una storica [**realtà industriale**](http://www.taisnet.com/) udinese specializzata in tessuti a maglia in catena (Raschel).  
 
